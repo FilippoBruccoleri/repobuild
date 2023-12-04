@@ -1,4 +1,4 @@
-name: esempio workflow
+name: Esempio workflow
 
 on: [push] 
 
